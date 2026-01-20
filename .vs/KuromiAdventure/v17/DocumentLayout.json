@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|c:\\users\\mexbo\\documentos\\proyectos\\kuromiadventure\\assets\\scrips\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|c:\\users\\mexbo\\documentos\\proyectos\\kuromiadventure\\assets\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\assets\\scrips\\videomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\videomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\assets\\scrips\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\assets\\scrips\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA3B8AF-9559-1D17-FD7C-724C49785D31}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scrips\\MusicPlayer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:39:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoManager.cs",
+              "DocumentMoniker": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\VideoManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\VideoManager.cs",
+              "ToolTip": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\VideoManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\VideoManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:01:44.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\GameManager.cs",
+              "ToolTip": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\GameManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:11:29.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scrips\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:05:17.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\mexbo\\Documentos\\Proyectos\\KuromiAdventure\\Assets\\Scrips\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\PlayerController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T01:24:18.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
