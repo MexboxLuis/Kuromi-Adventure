@@ -4,3 +4,6 @@ Logs/
 UserSettings/
 *.csproj
 *.sln
+obj/
+.vs/
+apk/
