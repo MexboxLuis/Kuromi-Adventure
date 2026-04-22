@@ -12,33 +12,31 @@
 
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="docs/screenshots/gameplay_capture_2.jpg" width="350"/>
+</td>
+<td align="center">
+<img src="docs/screenshots/gameplay_capture_3.jpg" width="350"/>
+</td>
+</tr>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="docs/screenshots/gameplay_capture_2.jpg" width="350"/>
-      </td>
-      <td align="center">
-        <img src="docs/screenshots/gameplay_capture_3.jpg" width="350"/>
-      </td>
-    </tr>
+<tr>
+<td align="center">
+<img src="docs/screenshots/gameplay_capture_14.jpg" width="350"/>
+</td>
+<td align="center">
+<img src="docs/screenshots/gameplay_capture_21.jpg" width="350"/>
+</td>
+</tr>
 
-    <tr>
-      <td align="center">
-        <img src="docs/screenshots/gameplay_capture_14.jpg" width="350"/>
-      </td>
-      <td align="center">
-        <img src="docs/screenshots/gameplay_capture_21.jpg" width="350"/>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center" colspan="2">
-        <img src="docs/screenshots/gameplay_capture_25.jpg" width="720"/>
-      </td>
-    </tr>
-  </table>
-
+<tr>
+<td align="center" colspan="2">
+<img src="docs/screenshots/gameplay_capture_25.jpg" width="720"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
