@@ -1,56 +1,82 @@
-# Welcome to Kuromi Adventure 🎮🌙
+#  Kuromi Adventure 🌙
 
-[![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
-Welcome to the **Kuromi Adventure** repository. This is a game project built with the Unity engine, featuring the beloved character Kuromi in an adventure-style experience.
-
----
-
-## 📚 About The Project
-
-| Feature                | Details |
-| ---------------------- | ------- |
-| 🎯 **Purpose**         | A fun and engaging adventure game starring Kuromi. |
-| ⚙️ **Engine**           | Built with Unity, leveraging its powerful 2D/3D capabilities. |
-| 🎮 **Gameplay**        | Navigate through levels, overcome challenges, and explore Kuromi's world. |
-| 🔄 **Core Mechanics**  | Player movement, level progression, and interactive game elements. |
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
-## 🚀 Tech Stack
+## 🎥 Gameplay
 
-### Game Engine
+[![YouTube Gameplay](https://img.shields.io/badge/YouTube-Gameplay-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/x0OE-Ph-oOg)
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-- **Unity:** Core game engine for rendering, physics, and game logic.
-- **C#:** Primary scripting language for all game behaviors and systems.
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/screenshots/gameplay_capture_2.jpg" width="350"/>
+      </td>
+      <td align="center">
+        <img src="docs/screenshots/gameplay_capture_3.jpg" width="350"/>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center">
+        <img src="docs/screenshots/gameplay_capture_14.jpg" width="350"/>
+      </td>
+      <td align="center">
+        <img src="docs/screenshots/gameplay_capture_21.jpg" width="350"/>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center" colspan="2">
+        <img src="docs/screenshots/gameplay_capture_25.jpg" width="720"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
-## 🛠️ How to Run Locally
+## 📚 About the Game
 
-### 1. Clone the Repository
+A runner-style game where Kuromi navigates through obstacles and levels to reunite with her partner, Badtz-Maru.
+
+- 3 progressive levels  
+- Increasing difficulty  
+- Boss encounters in later stages  
+- Player movement and obstacle avoidance
+
+---
+
+## 📱 Mobile Support
+
+This project includes mobile input handling and can run on Android devices.
+
+- Touch controls implemented  
+- Built and tested for Android  
+
+---
+
+## 🛠️ Requirements
+
+- Unity 2022.3.62f1 (LTS)
+
+> Use the same version to avoid compatibility issues.
+
+---
+
+## 🚀 Run Locally
 
 ```bash
 git clone https://github.com/MexboxLuis/Kuromi-Adventure.git
 cd Kuromi-Adventure
 ```
 
-### 2. Open in Unity
-
-- Open **Unity Hub**
-- Click **Open** and select the cloned project folder
-- Let Unity import all assets and dependencies
-
-### 3. Run the Game
-
-- Open the main scene
-- Press the **Play** button in the Unity Editor
-
----
-
-## 💡 Final Notes
-
-This project is a Unity-based adventure game featuring Kuromi. Have fun exploring! 🌙
+## ⚠️ Disclaimer
+This is a personal/educational project. Characters are used as references and are not intended for commercial use.
